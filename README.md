@@ -17,5 +17,5 @@ I’m currently on a focused journey to **master JavaScript**!
 From DOM manipulation to ES6+ concepts and beyond — it's time to level up 🚀
 
 🧩 Projects, practice, and a lot of debugging ahead.  
-Feel free to
+Feel free to CONNECT
 
